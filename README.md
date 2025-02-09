@@ -15,8 +15,8 @@ This is a Flask-based API that serves a machine learning model for making predic
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone <repo-url>
-cd <repo-folder>
+git clone git@github.com:mdkaifansari04/Flower-Recognition-Model.git
+cd Flower-Recognition-Model
 ```
 
 ### 2️⃣ Create a Virtual Environment (Recommended)

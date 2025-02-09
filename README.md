@@ -1,4 +1,4 @@
-# Flask API - Model Prediction Service
+# Flask API - Flower Prediction Service
 
 This is a Flask-based API that serves a machine learning model for making predictions. It includes sample Python scripts for learning purposes.
 

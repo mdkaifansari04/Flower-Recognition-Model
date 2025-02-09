@@ -1,0 +1,35 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and cache
+*.log
+*.sqlite3
+instance/
+
+# Ignore environment variables
+.env
+*.env
+config.py
+
+# Ignore dependencies installed via pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore Jupyter Notebook checkpoints (if using)
+.ipynb_checkpoints/
+
+# Ignore model files if they are large (optional)
+*.pkl
+*.h5
+*.joblib
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
